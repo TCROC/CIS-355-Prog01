@@ -1,1 +1,1 @@
-# SVSU-CIS-355-Prog01
+# CIS-355-Prog01
